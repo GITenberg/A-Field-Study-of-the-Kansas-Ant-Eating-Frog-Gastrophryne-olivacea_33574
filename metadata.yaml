@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36389
     wikipedia: http://en.wikipedia.org/wiki/Henry_Sheldon_Fitch
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33574#A-Field-Study-of-the-Kansas-Ant-Eating-Frog-Gastrophryne-olivacea
 gutenberg_bookshelf:
 - Animals-Wild-Reptiles and Amphibians
 - Animal
